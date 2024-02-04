@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
  This is **Promise Usoro**
  # A Data Analyst/ CRM and Lead Generation Specialist
  ---
