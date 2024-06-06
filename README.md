@@ -11,11 +11,11 @@
 - ⚡ Let's embark on this data-driven journey together!
 
  #    MY SKILLS
- - ## Excel
+ - ## Excel(lookup functions, Pivot Table, Conditional formating, joit functions )
  - ## SQL
  - ## Tableau
  - ## Power BI
- - ## Python
+   
 
 
 
