@@ -4,11 +4,12 @@
  ---
 
 - 👀 I’m open to work, interested in joinning a vibrant data community to expand, share and refine my skills
-- 🌱 I’m currently learning advance programming language in Python, HTML,  and SQL   
+- 🌱 I’m currently learning advance Python, HTML, and SQL  
 - 💞️ I’m looking forward to an opportunity to collaborate, learn, work and contribute to the evolving landscape of data
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/promiseusoro)
 - 😄 Pronouns: She/Her
 - ⚡ Let's embark on this data-driven journey together!
+-     Ask me about Data! Data!! Data!!!
 
  #    MY SKILLSETS
  - ## Excel
