@@ -1,20 +1,23 @@
-### Hi there! 👋
+# Hi there! 👋
  This is **Promise Usoro**
- # A Data Analyst/ CRM and Lead Generation Specialist
+ # A Data Analyst, Web Developer, and a Lead Generator 
  ---
 
-- 👀 I’m interested in joinning a vibrant data community to expand and refine my skills
-- 🌱 I’m currently  advancing my skills in Python, Power BI and Tableau
-- 💞️ I’m looking to collaborate, learn, work and contribute to the evolving landscape of data
-- 📫 You can reach me via email: promiseusoro677@gmail.com
+- 👀 I’m open to work, interested in joinning a vibrant data community to expand, share and refine my skills
+- 🌱 I’m currently learning advance programming language in Python, HTML,  and SQL   
+- 💞️ I’m looking forward to an opportunity to collaborate, learn, work and contribute to the evolving landscape of data
+- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/promiseusoro)
 - 😄 Pronouns: She/Her
 - ⚡ Let's embark on this data-driven journey together!
 
- #    MY SKILLS
- - ## Excel(lookup functions, Pivot Table, Conditional formating, joit functions )
+ #    MY SKILLSETS
+ - ## Excel
  - ## SQL
  - ## Tableau
  - ## Power BI
+ - ## HTML
+ - ## Javascript
+ - ## CSS
    
 
 
